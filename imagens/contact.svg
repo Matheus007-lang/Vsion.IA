@@ -1,0 +1,5 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120' role='img'>
+  <rect width='120' height='120' rx='20' fill='#e2e8f0'/>
+  <path d='M20 40 L60 70 L100 40' stroke='#0f172a' stroke-width='3' fill='none'/>
+  <rect x='20' y='40' width='80' height='50' rx='8' fill='none' stroke='#0f172a' stroke-width='3'/>
+</svg>
